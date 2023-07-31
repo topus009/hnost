@@ -1,0 +1,8 @@
+[global]
+[[global.environment]]
+name = 'PORT'
+value = '5003'
+
+[[global.environment]]
+name = 'SERVICE'
+value = 'NHOST'
